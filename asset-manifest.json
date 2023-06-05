@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7e0d1b35.css",
+    "main.js": "/static/js/main.10d1032b.js",
+    "static/js/787.ec704a7a.chunk.js": "/static/js/787.ec704a7a.chunk.js",
+    "static/media/NeoSansArabic.woff": "/static/media/NeoSansArabic.d5c6fe8a8601a82085f0.woff",
+    "index.html": "/index.html",
+    "main.7e0d1b35.css.map": "/static/css/main.7e0d1b35.css.map",
+    "main.10d1032b.js.map": "/static/js/main.10d1032b.js.map",
+    "787.ec704a7a.chunk.js.map": "/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e0d1b35.css",
+    "static/js/main.10d1032b.js"
+  ]
+}
